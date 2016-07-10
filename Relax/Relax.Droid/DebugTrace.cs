@@ -2,7 +2,7 @@ using System;
 using System.Diagnostics;
 using MvvmCross.Platform.Platform;
 
-namespace Relax.Droid
+namespace Relax
 {
     public class DebugTrace : IMvxTrace
     {

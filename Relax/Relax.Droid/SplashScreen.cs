@@ -2,12 +2,12 @@ using Android.App;
 using Android.Content.PM;
 using MvvmCross.Droid.Views;
 
-namespace Relax.Droid
+namespace Relax
 {
     [Activity(
-        Label = "Relax.Droid"
+        Label = "Relax"
         , MainLauncher = true
-        , Icon = "@mipmap/icon"
+       // , Icon = "@mipmap/icon"
         , Theme = "@style/Theme.Splash"
         , NoHistory = true
         , ScreenOrientation = ScreenOrientation.Portrait)]

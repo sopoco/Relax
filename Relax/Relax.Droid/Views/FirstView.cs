@@ -2,7 +2,7 @@ using Android.App;
 using Android.OS;
 using MvvmCross.Droid.Views;
 
-namespace Relax.Droid.Views
+namespace Relax.Views
 {
     [Activity(Label = "View for FirstViewModel")]
     public class FirstView : MvxActivity

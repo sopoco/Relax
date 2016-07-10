@@ -3,7 +3,7 @@ using MvvmCross.Droid.Platform;
 using MvvmCross.Core.ViewModels;
 using MvvmCross.Platform.Platform;
 
-namespace Relax.Droid
+namespace Relax
 {
     public class Setup : MvxAndroidSetup
     {
